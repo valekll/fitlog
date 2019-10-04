@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">fitlog</string>
+    <string name="test">test string</string>
+    <string name="gradeImgViewDescription">Description</string>
+    <string name="addNewExer">Add another exercise</string>
+    <string name="name">Name</string>
+    <string name="woTitlePrompt">Enter Workout Title</string>
+    <string name="workouts">Workouts</string>
+    <string name="createWO">Create Workout</string>
+    <string name="next">Next</string>
+</resources>
