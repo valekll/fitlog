@@ -2,10 +2,14 @@
   <library name="Gradle: androidx.appcompat:appcompat:1.1.0-alpha05@aar">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/34bc1c8479e272b993e44161451872b4/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f507463032fff9e98af072b25f485b00/transformed/appcompat-1.1.0-alpha05/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/34bc1c8479e272b993e44161451872b4/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/34bc1c8479e272b993e44161451872b4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f507463032fff9e98af072b25f485b00/transformed/appcompat-1.1.0-alpha05/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f507463032fff9e98af072b25f485b00/transformed/appcompat-1.1.0-alpha05/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f507463032fff9e98af072b25f485b00/transformed/appcompat-1.1.0-alpha05/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
